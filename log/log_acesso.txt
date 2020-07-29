@@ -1,0 +1,34 @@
+Data: (2020-07-16  02:28:01) - Usuário Nome: ADMIN, id 0 Unidade: ESTOQUE CENTRAL, id 24
+Data: (2020-07-16  02:28:42) - Usuário Nome: MICHEL, id 52 - Unidade: SEDE ADMINISTRATIVA, id 92
+Data: (2020-07-16  02:45:24) - Usuário Nome: MICHEL, id 52 - Unidade: SEDE ADMINISTRATIVA, id 92 | PC-01
+Data: (2020-07-16  02:46:49) - Usuário Nome: MICHEL, id 52 - Unidade: SEDE ADMINISTRATIVA, id 92 | PC-01 | ::1
+Data: (2020-07-16  02:48:42) - Usuário Nome: MICHEL, id 52 - Unidade: SEDE ADMINISTRATIVA, id 92 | PC-01 | ::1::1
+Data: (2020-07-16  05:35:01) - Usuário Nome: MICHEL, id 52 - Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-16  01:37:28) - Usuário Nome: ADMIN, id 0 - Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-16  08:39:01) | Usuário Nome: ADMIN, id 0 | Unidade: CLINICA DR FARAH, id 4 | PC-01 | ::1::1
+Data: (2020-07-16  09:09:11) | Usuário Nome: ADMIN, id 0 | Unidade: CLINICA DR FARAH, id 4 | PC-01 | ::1::1
+Data: (2020-07-16  12:12:43) | Usuário Nome: ADMIN, id 0 | Unidade: CLINICA GEMT, id 5 | PC-01 | ::1::1
+Data: (2020-07-17  08:47:37) | Usuário Nome: ADMIN, id 0 | Unidade: CLINICA DR FARAH, id 4 | PC-01 | ::1::1
+Data: (2020-07-17  09:18:34) | Usuário Nome: ADMIN, id 0 | Unidade: CLINICA DR FARAH, id 4 | PC-01 | ::1::1
+Data: (2020-07-20  10:14:50) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-20  12:46:26) | Usuário Nome: ADMIN, id 0 | Unidade: CLINICA DR FARAH, id 4 | PC-01 | ::1::1
+Data: (2020-07-20  12:47:05) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-21  07:10:22) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-21  08:20:09) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  08:20:14) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  08:20:18) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  08:20:23) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  08:20:27) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  08:20:32) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  08:20:46) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | 192.168.0.130 | 192.168.0.130192.168.0.130
+Data: (2020-07-21  12:22:28) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-21  07:17:49) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-21  07:42:50) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-22  12:04:21) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-22  07:29:01) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-23  07:41:22) | Usuário Nome: ADMIN, id 0 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-23  10:36:25) | Usuário Nome: MICHEL, id 52 | Unidade: SEDE ADMINISTRATIVA, id 92 | PC-01 | ::1::1
+Data: (2020-07-23  02:21:29) | Usuário Nome: MICHEL, id 52 | Unidade: SEDE ADMINISTRATIVA, id 92 | PC-01 | ::1::1
+Data: (2020-07-23  02:22:04) | Usuário Nome: MICHEL, id 52 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1
+Data: (2020-07-28  09:18:27) | Usuário Nome: MICHEL, id 52 | Unidade: SEDE ADMINISTRATIVA, id 92 | PC-01 | ::1::1
+Data: (2020-07-28  05:05:25) | Usuário Nome: MICHEL, id 52 | Unidade: ESTOQUE CENTRAL, id 24 | PC-01 | ::1::1

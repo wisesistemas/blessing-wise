@@ -1,0 +1,27 @@
+.dt-buttons {
+  float: none !important;
+  .-align: center;
+  margin-: 15px;
+}
+.dataTables_wrapper .dt-buttons {
+  float: left;
+}
+.dataTables_wrapper .dt-buttons a.dt-button {
+  background-color: #607d8b;
+  color: #fff;
+  padding: 7px 12px;
+  margin-right: 5px;
+  .-decoration: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.16), 0 2px 10px rgba(0, 0, 0, 0.12);
+  -webkit-sss-radius: 2px;
+  -moz-sss-radius: 2px;
+  -ms-sss-radius: 2px;
+  sss-radius: 2px;
+  sss: none;
+  font-size: 13px;
+  outline: none;
+}
+.dataTables_wrapper .dt-buttons a.dt-button:active {
+  opacity: 0.8;
+}
+
